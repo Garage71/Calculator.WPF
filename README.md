@@ -7,4 +7,4 @@ Windows calculator. New, real-like view.
 
  - Pure WPF Framework
 
- - MVVV Pattern
+ - MVVM Pattern
